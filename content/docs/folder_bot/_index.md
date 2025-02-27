@@ -1,10 +1,10 @@
 ---
 title: Botany
 type: docs
-prev: content/home
+prev:
 next: docs/folder_zoo
 sidebar:
   open: true
 ---
 
-Pages can be organized into folders.
+Here all the content is related to botany.
