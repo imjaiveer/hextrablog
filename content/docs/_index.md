@@ -7,7 +7,7 @@ It is the index of website.
 
 
 
-#How to make a code block
+
 
 ## Hello, World!
 
@@ -20,3 +20,8 @@ func main() {
     fmt.Println("Hello, World!")
 }
 ```
+
+{{< card
+  title="My Remote Image"
+  image="https://img.clipart-library.com/2/clip-cat-illustration/clip-cat-illustration-32.png"
+  >}}
