@@ -1,7 +1,7 @@
 ---
 title: The living world
 type: docs
-prev: docs/first-page.md
+prev: 
 ---
 
 How wonderful is the living world ! The wide range of living types is
