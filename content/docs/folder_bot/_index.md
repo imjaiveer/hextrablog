@@ -1,8 +1,8 @@
 ---
 title: Botany
 type: docs
-prev: docs/first-page
-next: docs/folder/leaf
+prev: content/home
+next: docs/folder_zoo
 sidebar:
   open: true
 ---
