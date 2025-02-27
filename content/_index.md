@@ -1,9 +1,9 @@
 ---
-title: My Site
+title: Welcome to my blog 😃
 toc: false
 ---
 
-This is the landing page.
+Here you will find my work.
 
 ## Explore
 
@@ -12,6 +12,6 @@ This is the landing page.
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
 
-## Documentation
+## Social
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+Connect to me on [Insta]([https://imfing.github.io/hextra](https://www.instagram.com/itsjaiveer/)).
