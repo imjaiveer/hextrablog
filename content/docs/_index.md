@@ -7,11 +7,11 @@ It is the index of website.
 
 
 
-//How to make a code block
+[//]: # (How to make a code block
 
-//## Hello, World!
+## Hello, World!
 
-//```go {filename="main.go"}
+```go {filename="main.go"}
 package main
 
 import "fmt"
@@ -20,3 +20,4 @@ func main() {
     fmt.Println("Hello, World!")
 }
 ```
+)
