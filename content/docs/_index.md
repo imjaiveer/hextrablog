@@ -3,11 +3,15 @@ title: Documentation
 next: first-page
 ---
 
-This is a demo of the theme's documentation layout.
+It is the index of website.
 
-## Hello, World!
 
-```go {filename="main.go"}
+
+//How to make a code block
+
+//## Hello, World!
+
+//```go {filename="main.go"}
 package main
 
 import "fmt"
