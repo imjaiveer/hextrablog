@@ -14,4 +14,4 @@ Here you will find my work.
 
 ## Social
 
-Connect to me on [Insta](https://imfing.github.io/hextra](https://www.instagram.com/itsjaiveer/)
+Connect to me on [Insta](https://www.instagram.com/itsjaiveer/)
