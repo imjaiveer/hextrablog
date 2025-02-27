@@ -3,4 +3,6 @@ title: About
 type: about
 ---
 
-This is the about page.
+My name is Jaiveer Singh.
+Educator.
+Studying.
