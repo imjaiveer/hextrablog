@@ -1,13 +1,13 @@
 ---
 title: Documentation
-next: first-page
+next:
 ---
 
 It is the index of website.
 
 
 
-[//]: # (How to make a code block
+#How to make a code block
 
 ## Hello, World!
 
@@ -20,4 +20,3 @@ func main() {
     fmt.Println("Hello, World!")
 }
 ```
-)
