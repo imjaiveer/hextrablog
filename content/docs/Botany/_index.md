@@ -1,5 +1,5 @@
 ---
-title: Folder
+title: Botany
 type: docs
 prev: docs/first-page
 next: docs/folder/leaf
