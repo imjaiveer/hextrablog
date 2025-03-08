@@ -25,3 +25,5 @@ func main() {
   title="My Remote Image"
   image="https://img.clipart-library.com/2/clip-cat-illustration/clip-cat-illustration-32.png"
   >}}
+
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/768px-Google_%22G%22_logo.svg.png"><img src="image.jpg" alt="Example Image"></a>
