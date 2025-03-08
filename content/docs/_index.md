@@ -26,4 +26,4 @@ func main() {
   image="https://img.clipart-library.com/2/clip-cat-illustration/clip-cat-illustration-32.png"
   >}}
 
-<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/768px-Google_%22G%22_logo.svg.png"><img src="image.jpg" alt="Example Image"></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/768px-Google_%22G%22_logo.svg.png" alt="Google Logo" width="200"> <!-- Another example with a local image --> <img src="image.jpg" alt="Example Image" width="200">
